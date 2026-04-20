@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         // set up the creatures
-        Creature a = new Creature();
+        Creature a = new Zoroark();
         Creature b = new Creature();
         a.name = "A";
         a.health = 100;
